@@ -4,6 +4,6 @@ Compresses files with terminal options to display the frequency keys and other f
 
 This project was last used in conjunction with Travis CI.
 
-# To Run
+## To Run
 Run the file Encode.java in src
 
